@@ -12,7 +12,7 @@ form{
 nav{
     background-color: gray;
 }
-}
+
 #sign{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
@@ -41,9 +41,7 @@ p{
 .inputspot{
     width: 90%;
 }
-#form{
 
-}
 .icons{
     display: flex;
     align-items: center; 
